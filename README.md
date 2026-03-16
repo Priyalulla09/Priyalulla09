@@ -18,4 +18,4 @@ Currently
 - Looking for Flutter developer opportunities where I can contribute and grow
 
 Let's Connect
-- linkedin.com/in/priya-lulla-02aa1b220
+- (https://www.linkedin.com/in/priya-lulla-02aa1b220)
