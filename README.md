@@ -9,10 +9,9 @@ Tech Stack
 - Integration: REST APIs, Cached Network Images
 
 Projects
-- ShopWise - Flutter E-commerce App (ShopWise - Flutter E-commerce App](https://github.com/Priyalulla09/flutter-product-listing-app)
-  A shopping app I built to practice real-world Flutter development. It fetches live product data, 
-  supports search and category filtering, and lets users manage a cart and save favourites.
-
+- A clean and responsive Instagram login screen built using Flutter focusing on UIdesign and layout Structure.
+- A simple task management app that allows users to add delete, and manage daily tasks efficiently.
+  
 Currently
 - Expanding my Flutter skills through hands-on projects
 - Looking for Flutter developer opportunities where I can contribute and grow
